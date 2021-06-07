@@ -19,7 +19,7 @@ V(G) = 3 - 2 + 1
 
 V(G) = 2
 
-![img.png](img.png)
+img.png![image](https://user-images.githubusercontent.com/82464653/120977242-ca11c880-c77b-11eb-8158-d9a45b69b65d.png)
 
 **2. Рекомендуемый порог цикломатической сложности кода**
 
